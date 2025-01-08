@@ -1,0 +1,9 @@
+/home/mmcleod/COMP0210/week3_exercises/Automata_Example/build/CMakeFiles/edit_cache.dir
+/home/mmcleod/COMP0210/week3_exercises/Automata_Example/build/CMakeFiles/rebuild_cache.dir
+/home/mmcleod/COMP0210/week3_exercises/Automata_Example/build/source/CMakeFiles/Automata_lib.dir
+/home/mmcleod/COMP0210/week3_exercises/Automata_Example/build/source/CMakeFiles/Automata_example.dir
+/home/mmcleod/COMP0210/week3_exercises/Automata_Example/build/source/CMakeFiles/edit_cache.dir
+/home/mmcleod/COMP0210/week3_exercises/Automata_Example/build/source/CMakeFiles/rebuild_cache.dir
+/home/mmcleod/COMP0210/week3_exercises/Automata_Example/build/test/CMakeFiles/automata_tests.dir
+/home/mmcleod/COMP0210/week3_exercises/Automata_Example/build/test/CMakeFiles/edit_cache.dir
+/home/mmcleod/COMP0210/week3_exercises/Automata_Example/build/test/CMakeFiles/rebuild_cache.dir

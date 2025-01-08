@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/automata_tests.dir/tests.cpp.o -o ../bin/automata_tests  ../source/libAutomata_lib.a /usr/local/lib/libCatch2Main.a /usr/local/lib/libCatch2.a 

@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/Automata_example.dir/main.cpp.o -o ../bin/Automata_example  libAutomata_lib.a 

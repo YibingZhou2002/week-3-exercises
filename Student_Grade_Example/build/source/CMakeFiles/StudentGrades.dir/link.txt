@@ -1,0 +1,2 @@
+/usr/bin/ar qc libStudentGrades.a CMakeFiles/StudentGrades.dir/Student.cpp.o
+/usr/bin/ranlib libStudentGrades.a
