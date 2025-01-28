@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/TestGrades.dir/test_grades.cpp.o -o ../bin/TestGrades  ../source/libStudentGrades.a /usr/local/lib/libCatch2Main.a /usr/local/lib/libCatch2.a 
