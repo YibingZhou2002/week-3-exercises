@@ -1,3 +1,5 @@
+#pragma once
+
 #include <iostream>
 #include <vector>
 #include <map> 
@@ -10,7 +12,7 @@ using std::string;
 class Automaton
 {
     public: 
-    Automaton(map<char, int> A, vector<vector<int>> M, vector<int> S_A) : alphabet(A), transition_matrix(M), accepting_states(S_A);
+    Automaton(map<char, int> A, vector<vector<int>> M, vector<int> S_A);
 
     bool Read(string word);
 
