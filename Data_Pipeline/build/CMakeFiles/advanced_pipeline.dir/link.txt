@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/advanced_pipeline.dir/source/pipeline_adapter.cpp.o CMakeFiles/advanced_pipeline.dir/source/simple.cpp.o -o advanced_pipeline 

@@ -1,0 +1,4 @@
+/home/yibingzhou/wk3/week-3-exercises/Data_Pipeline/build/CMakeFiles/pipeline_demo.dir
+/home/yibingzhou/wk3/week-3-exercises/Data_Pipeline/build/CMakeFiles/advanced_pipeline.dir
+/home/yibingzhou/wk3/week-3-exercises/Data_Pipeline/build/CMakeFiles/edit_cache.dir
+/home/yibingzhou/wk3/week-3-exercises/Data_Pipeline/build/CMakeFiles/rebuild_cache.dir
