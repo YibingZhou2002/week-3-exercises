@@ -1,0 +1,5 @@
+add_test( [==[Automaton basic functionality]==] /home/yibingzhou/wk3/week-3-exercises/catch2_example/build/run_tests [==[Automaton basic functionality]==]  )
+set_tests_properties( [==[Automaton basic functionality]==] PROPERTIES WORKING_DIRECTORY /home/yibingzhou/wk3/week-3-exercises/catch2_example/build)
+add_test( [==[Automaton validation]==] /home/yibingzhou/wk3/week-3-exercises/catch2_example/build/run_tests [==[Automaton validation]==]  )
+set_tests_properties( [==[Automaton validation]==] PROPERTIES WORKING_DIRECTORY /home/yibingzhou/wk3/week-3-exercises/catch2_example/build)
+set( run_tests_TESTS [==[Automaton basic functionality]==] [==[Automaton validation]==])

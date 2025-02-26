@@ -1,0 +1,3 @@
+/home/yibingzhou/wk3/week-3-exercises/Automata_Example/source/build/CMakeFiles/Automata.dir
+/home/yibingzhou/wk3/week-3-exercises/Automata_Example/source/build/CMakeFiles/edit_cache.dir
+/home/yibingzhou/wk3/week-3-exercises/Automata_Example/source/build/CMakeFiles/rebuild_cache.dir

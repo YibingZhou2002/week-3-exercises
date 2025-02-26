@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/run_tests.dir/test_automaton.cpp.o "CMakeFiles/run_tests.dir/home/yibingzhou/wk3/week-3-exercises/Automata_Example/source/automaton.cpp.o" -o run_tests  /usr/local/lib/libCatch2Main.a /usr/local/lib/libCatch2.a 

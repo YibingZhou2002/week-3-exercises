@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/Automata.dir/main.o CMakeFiles/Automata.dir/automaton.o -o Automata 
